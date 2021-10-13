@@ -5,7 +5,11 @@ The goal of the game is to escape the mansion.
 
 Controls:
 left arrow key: move left
+
+
 right arrow key: move right
+
+
 up arrow key: interact with object
 
 
