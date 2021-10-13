@@ -1,8 +1,6 @@
 # Bad-Heir-Day
 Pixel 2d escape room game developed in HTMl/CSS and Javascript. Game assets were all created using Piskel.
-
 Press start to play.
-
 The goal of the game is to escape the mansion.
 
 Controls:
