@@ -1,0 +1,37 @@
+main lobby (painting, doll, lamp key)
+-check the doll to get the letter A
+-check the antique lamp; a key should pop right on out
+-use that key to unlock the door
+
+corridor (door 1, door 2, sturdy door, mouse, passageway)
+-enter the kitchen on the far right side
+
+kitchen (garbage can, fridge, sink, bread basket; knife, cheese, bread)
+-investigate the fridge to get cheese
+-investigate again to get the breadsticks on top of the fridge
+-investigate the sink to get the knife
+-leave the kitchen
+
+corridor
+-use the cheese on the mouse, who will open up the sturdy door to the dining room
+
+dining room (table, wine glass x3, dinner plate x3; pitcher, fancy key)
+-place the bread on the plates, since you're already here
+-there was a greasy R underneath the bread
+-go back to the kitchen and fill the pitcher from the leaky sink
+-fill the wine glasses with water, and after checking the table again a key will drop
+-leave the dining room
+
+corridor
+-open the bolted door to the library
+
+library (encyclopedia, book1, book2, photo album, postcards)
+-investigate the room to get more letters 
+-unscramble those letters and type the name "charlie" into the computer (type in eilrahc to open the secret door)
+-this gives you the key to the garden
+
+garden (pot; soil, seed, watering can)
+-fill up the shovel from the soil bag, pick up seeds, grab watering can
+-put all in pot
+-flower blooms
+-you're free! 
