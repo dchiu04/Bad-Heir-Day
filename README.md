@@ -3,7 +3,8 @@ Pixel 2d escape room game developed in HTMl/CSS and Javascript. Game assets were
 Press start to play.
 The goal of the game is to escape the mansion.
 
-Controls:
+#Controls:
+
 left arrow key: move left
 
 
